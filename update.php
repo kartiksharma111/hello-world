@@ -51,3 +51,4 @@ if(!empty($_POST)) {
         
     });
 </script>
+lputcpu
